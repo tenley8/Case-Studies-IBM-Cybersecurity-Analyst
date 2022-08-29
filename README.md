@@ -19,3 +19,8 @@ Computer Security Incident Management, Professional certificate, cybersecurity a
   - Penetration Testing, Incident Response and Forensics
   - Cybersecurity Compliance Framework & System Administration
   - Network Security & Database Vulnerabilities
+
+### IBM Cybersecurity Analyst Case Studies
+- Web Cookies Yahoo! Breach
+- Phising Attack Adobe Breach
+- Data Scrape LinkedIn Cyber Attack
