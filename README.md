@@ -21,6 +21,6 @@ Computer Security Incident Management, Professional certificate, cybersecurity a
   - Network Security & Database Vulnerabilities
 
 ### IBM Cybersecurity Analyst Case Studies
-- Adobe Phising Cyber Attack
+- Adobe Phishing Cyber Attack
 - LinkedIn Data Scrape Cyber Attaack
 - Yahoo Web Cookies Cyber Attack
