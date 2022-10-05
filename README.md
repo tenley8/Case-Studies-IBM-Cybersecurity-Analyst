@@ -1,4 +1,4 @@
-# IBM Cybersecurity Analyst Professional
+# IBM Cybersecurity Analyst Professional Certificate Training
 
 ## About the Professional Certificate
   - Develop knowledge of cybersecurity analyst tools including data protection; endpoint protection; SIEM; and systems and network fundamentals. 
