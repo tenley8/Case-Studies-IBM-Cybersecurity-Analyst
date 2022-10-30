@@ -1,14 +1,13 @@
 # IBM Cybersecurity Analyst Professional Certificate Training
 
-## About the Professional Certificate
-  - Develop knowledge of cybersecurity analyst tools including data protection; endpoint protection; SIEM; and systems and network fundamentals. 
-  - Learn about key compliance and threat intelligence topics important in today’s cybersecurity landscape.
-  - Gain skills for incident responses and forensics with real-world cybersecurity case studies.
-  - Get hands-on experience to develop skills via industry specific and open source Security tools.
-  
 ### Skills Learned
 
 Computer Security Incident Management, Professional certificate, cybersecurity analyst, Breaches, Cyber Attaks, Cybersecurity, Data Protection, Digital Forensics, Exposed Data, IBM New Collar, IBM Security, Incident Response, Network Defense Tactics, Penetration Testing, Phishing, Ransomware, Scripting, Security Analyst, SIEM, Threat Intelligence, Threat Management, Vulnerability Scanning.
+
+### IBM Cybersecurity Analyst Case Studies
+- Adobe Phishing Cyber Attack
+- LinkedIn Data Scrape Cyber Attaack
+- Yahoo Web Cookies Cyber Attack
 
 ### Courses
   - Introduction to Cybersecurity Tools & Cyber Attacks
@@ -20,7 +19,4 @@ Computer Security Incident Management, Professional certificate, cybersecurity a
   - Cybersecurity Compliance Framework & System Administration
   - Network Security & Database Vulnerabilities
 
-### IBM Cybersecurity Analyst Case Studies
-- Adobe Phishing Cyber Attack
-- LinkedIn Data Scrape Cyber Attaack
-- Yahoo Web Cookies Cyber Attack
+
